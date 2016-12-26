@@ -28,10 +28,10 @@
     <Folder Include="images\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\all 1 - small.jpg">
+    <Content Include="images\a.jpg">
       <Publish>True</Publish>
     </Content>
-    <Content Include="images\all 2 - small.jpg">
+    <Content Include="images\b.jpg">
       <Publish>True</Publish>
     </Content>
   </ItemGroup>
